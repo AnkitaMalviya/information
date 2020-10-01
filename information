@@ -1,3 +1,3 @@
-name=input("Enter name of the user:")
-roll no.=int(input("Enter rool no."))
+name=input("Enter  name of name......:")
+roll no.=int(input("Enter roll no."))
 school=input("enter school")
